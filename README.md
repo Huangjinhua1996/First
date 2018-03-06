@@ -4,7 +4,7 @@
 
 2.使用的电子信箱：q1415001536@qq.com
 
-！[个人账户](./img/个人账户.png)
+![hjhzh](hjhzh.png)
 
 ## 二、Github简介
 
